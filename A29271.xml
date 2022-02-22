@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority, the Parliament of the Commonwealth of England a serious charge and accusation against Mr. Edw. Winslow, one of the commissioners for compounding at Haberdashers Hall / by William Bray.</title>
+            <author>Bray, William, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29271</idno>
+            <idno type="STC">Wing B4314</idno>
+            <idno type="STC">ESTC R26449</idno>
+            <idno type="EEBO-CITATION">09470950</idno>
+            <idno type="OCLC">ocm 09470950</idno>
+            <idno type="VID">43204</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43204)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority, the Parliament of the Commonwealth of England a serious charge and accusation against Mr. Edw. Winslow, one of the commissioners for compounding at Haberdashers Hall / by William Bray.</title>
+                  <author>Bray, William, 17th cent.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winslow, Edward, 1595-1655.</term>
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43204:1"/>
+            <p>To the Supreme Authori<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> The Parliament of the Commonwealth of ENGLAND: A Serious CHARGE AND ACCUSATION Againſt M<hi rend="sup">r</hi> EDW. WINSLOW, One of the Commiſſioners for Compounding at HABERDASHERS HALL.</p>
+            <p>BY Capt. WILLIAM BRAY.</p>
+            <p>Imprinted at LONDON. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43204:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:43204:2"/>
+            <head>
+               <hi>To the Supreme Authority,</hi> The Parliament of the Commonwealth of <hi>ENGLAND, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Honorable Senators,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have always been, according to the light and talent that God hath given me, faithful to the Cauſe of this Commonwealth: and though I am weak and frail in this life, yet my de<g ref="char:EOLhyphen"/>ſire and endeavours hath been, and I hope ſhall be, not to ſin wilfully a<g ref="char:EOLhyphen"/>gainſt God, my own ſoul, or my neighbour. I am now conſtrained, by all the obligati<g ref="char:EOLhyphen"/>ons of humanity to my ſelf, to appeal for your Juſtice; that ſo you mought exerciſe your Vertue, Reaſon, and Chriſtianity, on my behalf. I ſhall preſent unto you the Caſe as briefly as I may, in that manner and form as things are; and ſhall preſent nothing to you, but what I can make to appear in Judgement-ſeat.</p>
+            <p>I have been about two yeers and eight months a Pri<g ref="char:EOLhyphen"/>ſoner; and it pleaſed God, who is juſt, wiſe, and
+<pb n="2" facs="tcp:43204:3"/> merciful, to ſtir up the ſpirit of his Excellency the Lord General <hi>Cromwel,</hi> and ſome other worthy Members of Parliament, to make a juſt and truly worthy motion for my releaſe, even at ſuch a time when I judged in my ſelf that my afflictions had even wholly deſtroyed my bodily health, as well as incumbred me with deſtruction, by reaſon of worldly prejudice to my ſelf, indebtments and obligations to friends.</p>
+            <p>But may it pleaſe this honourable Council, that on the firſt day of <hi>January</hi> inſtant, I was deſired by Cornet <hi>Cheeſman</hi> to appear for him on the behalf of the Com<g ref="char:EOLhyphen"/>monwealth, in order to a Charge exhibited againſt the Sub-Commiſſioners of <hi>Berk</hi>-ſhire, before the Committee at Haberdaſhers Hall, in a matter of many hundred pounds <hi>per annum,</hi> which the Commonwealth had been apparently, negligently, and wilfully defrauded of; as did appear unto me by information, and Judgement by the Depoſitions of abundance of Witneſſes.</p>
+            <p>And I was further acquainted by the ſaid Cornet <hi>Cheeſman,</hi> that, about a yeer ſince, he had a hearing of his Cauſe: and he alleadged unto me, that he was ſur<g ref="char:EOLhyphen"/>priſed in his Trial, becauſe the Publication and Trial was all in one day, ſo that he had no time to inform Counſel, or abbreviate his Cauſe, which he had ſo deep<g ref="char:EOLhyphen"/>ly engaged in (according to his Oath) againſt the wil<g ref="char:EOLhyphen"/>ful corruptions of the Sub-Commiſſioners. I deſire not to be tedious; but I appeal to this honourable Council whether this was juſt, holy, rational, or good.</p>
+            <p>Secondly, he the ſaid Cornet <hi>Cheeſman</hi> informed me, that, by way of recrimination, his adverſaries had charged him that was Plaintiff for the Commonwealth, and upon very ſlender proof, as he informed me, and accordingly did ſhew me the copies of the Depoſitions on the Defendants part; the particulars whereof I ſhall
+<pb n="3" facs="tcp:43204:3"/> not trouble you with, becauſe I hear he intends to preſent his whole Cauſe before you. Yet he told me, the Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Berk</hi>-ſhire had onely ſome verbal check, and were continued in their Places; and he, that had appear<g ref="char:EOLhyphen"/>ed for the Commonwealth, was caſt out of his Truſt.</p>
+            <p>He informed me, that there were about ſeventy or more Witneſſes examined to the Cauſe which he firſt of all began for the Commonwealth; and thereupon de<g ref="char:EOLhyphen"/>ſired me to be a friend and aſſiſtant unto him.</p>
+            <p>Whereupon, after I had taken the Engagement in Court, in obedience to your Act (as my judgement and underſtanding did lead me) I ſpake on the behalf of the Commonwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lth for Cornet <hi>Cheeſman</hi> the Plaintiff. But may it p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſe this honourable Council, whilſt I was compoſing my ſelf to diſcharge my truſt for the Com<g ref="char:EOLhyphen"/>monwealth, and, as I con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive, according to my inſtructi<g ref="char:EOLhyphen"/>ons, for the honour of your Authority; one M. <hi>Black<g ref="char:EOLhyphen"/>grove,</hi> a Member of Parliament, that did much appear for the accuſed parties, the Sub-Commiſſioners, asked me in full and open Court, in the preſence of many peo<g ref="char:EOLhyphen"/>ple, Whether I was not Captain <hi>Bray</hi> the Ranter: but I anſwered to this effect, that I knew no one in the world could juſtly accuſe me of any ſuch thing; and I did not know any one of the name to be ſo. Secondly, ſo far as I ever underſtood their Opinions, I was contrary in my ſpirit unto them, and have endeavoured, when I have been called to it, to convince them by principles of Re<g ref="char:EOLhyphen"/>ligion and Reaſon, according to my light and conſcience. And truely, let me ſay and boaſt as <hi>Paul</hi> did in a ſence, and upon an occaſion; If I were as free from ſin, inwardly and outwardly (for I have no cauſe to boaſt, but in the Lord Chriſt, who was crucified, and is riſen) as I am from thoſe acts of converſation that ſuch a people are ac<g ref="char:EOLhyphen"/>cuſed
+<pb n="4" facs="tcp:43204:4"/> with, I ſhould have no ſin at all. I deſire this ho<g ref="char:EOLhyphen"/>nourable Council to excuſe me, if I vindicate my ſelf, ſeeing I am ſo abundantly conſtrained, for the defence of the Commonwealth, for the honour of your Authority, in which I have reaſon to comprehend my own preſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>But may it pleaſe this honorable Council, if ſuch ſiniſter queſtions and cunning illegal accuſations ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be given to a man that ſtands for the cauſe of the Commonwealth, Who can be innocent? Who may not be politickly and craftily deſtroyed in his reputation and good name? And to do it in ſuch a cauſe, in ſuch a time, and indeed unto me, after all my ſufferings, and when I had undertaken ſuch a way and reſolution in my ſelf, to plead in ſuch cauſes as I conceived were honeſt and juſt, wherein I might do the Commonwealth ſervice, and keep me from an idle ſtate and condition, (which is unſutable to a man) and to preſerve me in a ſtate of ſubſiſtence, out of duty to mine own body, that I mought not be a lawleſs and wilful de<g ref="char:EOLhyphen"/>ſtroyer of my ſelf. And I believe no honeſt or Chriſtian man can be my enemy for this: for theſe Reaſons made me willing to employ my ſelf in this way. 1. For four or five yeers before the Wars, I was educated to the un<g ref="char:EOLhyphen"/>derſtanding of the practice of the Law. 2. I conceived it to be the liberty of an Engliſh man, a Chriſtian, and a Rational man. 3. I thought none could rationally deny me that, ſince I had engaged in the Parliamentary cauſe.</p>
+            <p>But further may it pleaſe this honourable Council, M. <hi>Winſlow</hi> one of the Commiſſioners went much higher, tending to over-awe me, and diſcountenance me, (as from the other Commiſſioners I received no incivility at all;) and manifeſted ſo high an enmity to me, that he ſtood up and uttered theſe words: <hi>viZ. Captain</hi> Bray, <hi>you ſhall
+<pb n="5" facs="tcp:43204:4"/> plead no more at this Court: Are not you the man that hold dan<g ref="char:EOLhyphen"/>gerous opinions? were not you found in bid with two women to<g ref="char:EOLhyphen"/>gether, at one Miſtreſs</hi> Seney<hi>'s that was carted?</hi>
+            </p>
+            <p>This was in open Court; this was to one who hath been for your ſafety, and can prove upon Oath hath been in ſeveral engagements (his conſcience teſtifying to that end:) this was in open Court, in the face of an aſſembly, when, according to the Inſtructions and copies of De<g ref="char:EOLhyphen"/>poſitions given me, I was to plead the intereſt of the Commonwealth, in faithfulneſs and duty, againſt wilful violators of your Ordinances, Rules, Acts, and Inſtructi<g ref="char:EOLhyphen"/>ons. And I appeal to this honourable Council, whether this be not, as much as in him lay, diſhonourable to Par<g ref="char:EOLhyphen"/>liamentary authority, and capital Tyrannie.</p>
+            <p>But this was from a Commiſſioner that ſhould ſhew forth humanity and good example. This was a way to ruine me in all credit and eſteem, and to make my life a burthen to me, after the expiration of my impriſonment: whereas it was fully known, I was a priſoner when Mi<g ref="char:EOLhyphen"/>ſtreſs <hi>Seney</hi> was carted. I have been a priſoner almoſt three yeers, and was but lately releaſed. I was never in Miſtreſs <hi>Seney</hi>'s habitation in my life. And indeed, this was the way of the corrupt bloody Papiſts of old, as well as the uncon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cionable Perſecutors in the Primitive times, To make ſuch ſiniſtrous general, illegal, and deſtroying accuſations; which hath been condemned by this ho<g ref="char:EOLhyphen"/>nourable Council, as the Parliamentary Declarations manifeſt. But of this I ſhall ſay no more at preſent, though I could ſay much more in it. My cauſe will ſpeak for it ſelf, and be an object for your Wiſdoms and Juſtice.</p>
+            <p>When I was coming forth of the Hall, I told M. <hi>Black<g ref="char:EOLhyphen"/>grove</hi> he did not deal with me like a man, or like a Chri<g ref="char:EOLhyphen"/>ſtian,
+<pb n="6" facs="tcp:43204:5" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Gentleman. He told me he would acqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int the G<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ral of me. But I replied, I would acquaint both P<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ment and Lord General of him; and I do accord<g ref="char:EOLhyphen"/>ingly tender it to your ſerious conſideration, and do hum<g ref="char:EOLhyphen"/>bly deſire that my cauſe may be acceptable in your ſight. I commit my cauſe to the righteous Judge of heaven and earth, and to your Chriſtian, vertuous, and honourable conſideration.</p>
+            <closer>
+               <dateline>
+                  <date>6 <hi>January,</hi> 1651.</date>
+               </dateline>
+               <signed>William Bray.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43204:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
